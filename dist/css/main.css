@@ -27,13 +27,17 @@ html {
  * Customize the background color to match your design.
  */
 
+/*
+ *Change the text selection color
+ */
+
 ::-moz-selection {
-  background: #4d79ff;
+  background: #b3d4fc;
   text-shadow: none;
 }
 
 ::selection {
-  background: #4d79ff;
+  background: #b3d4fc;
   text-shadow: none;
 }
 
